@@ -1,0 +1,47 @@
+[
+    {
+        "titulo":"Admisión Barracas", 
+        "cuerpo":"<span style=\"color:royalblue\">Disculpe la demora, le envío la orden de admisión. Por favor entregar el producto junto a este documento en el taller de Benito Quinquela Martín 1924, C.A.B.A., de lunes a jueves de 9 a 16hs.<span>",
+        "postcopy":"",
+        "id":"solrstgen"},
+    {
+        "titulo":"Retiro por Domicilio OCA", 
+        "cuerpo":"<span style=\"color:royalblue\">Disculpe la demora, le envío adjunta la orden de servicio y la estampilla de OCA, por favor imprimir esta última y adherir en la parte externa para que retire el cartero a partir de mañana y los días siguientes de 8 a 13hs por la dirección brindada.\n\nPuede realizar el seguimiento del producto una vez que retira el cartero en el siguiente link:<span>",
+        "postcopy":"<span style=\"color:royalblue\">Recuerde embalarlo de manera acorde para evitar daños inducidos en el transporte.<span>",
+        "id":"solrstgen"},
+    {
+        "titulo":"Retiro por Sucursal OCA", 
+        "cuerpo":"<span style=\"color:royalblue\">Disculpe la demora, le envío adjunta la orden de servicio y la estampilla de OCA, por favor imprimir esta última y adherir en la parte externa para entregar en la sucursal detallada debajo.\n\n INSERTAR SUCURSAL\n\nLa estampilla enviada tiene vencimiento de 72hs hábiles, una vez transcurrido dicho tiempo se dará de baja automáticamente.<span>",
+        "postcopy":"<span style=\"color:royalblue\">Recuerde embalarlo de manera acorde para evitar daños inducidos en el transporte.<span>",
+        "id":"solrstgen"},
+    {
+        "titulo":"Solicitud CPFR", 
+        "cuerpo":"<span style=\"color:royalblue\">Le informo que para clasificar el equipo como falla reiterada preciso un video o foto que corrobore la falla del mismo.\n\nUna vez realizado podremos buscar otras vías de solución para su producto.</span>",
+        "postcopy":"",
+        "id":"cpfr"},
+    {
+        "titulo":"Etiqueta CPFR", 
+        "cuerpo":"<span style=\"color:royalblue\">Le adjunto la estampilla de OCA para enviar nuevamente el equipo al taller y el enlace de seguimiento del mismo.</span>",
+        "postcopy":"<span style=\"color:royalblue\">Le informo que el equipo no estará en cola de reparación, en cuanto llegue al taller será revisado por nuestros técnicos y enviado nuevamente.</span>",
+        "id":"cpfr"},
+    {
+        "titulo":"CPFR Comprobado", 
+        "cuerpo":"<span style=\"color:royalblue\">Le informo que probamos el producto y comprobamos la falla. En el transcurso de la semana se estarán comunicando con usted para enviarle el link de seguimiento de su equipo nuevo. Disculpe las molestias ocasionadas.</span>",
+        "postcopy":"",
+        "id":"cpfr"},
+    {
+        "titulo":"Reparado OCA Domicilio", 
+        "cuerpo":"<span style=\"color:royalblue\">Le envío el link de seguimiento correspondiente a su equipo ingresado por la garantía.</span>",
+        "postcopy":"<span style=\"color:royalblue\">El mismo será entregado en el domicilio indicado anteriormente.</span>",
+        "id":"reparaciones"},
+    {
+        "titulo":"Reparado OCA Sucursal", 
+        "cuerpo":"<span style=\"color:royalblue\">Le envío el link de seguimiento correspondiente a su equipo ingresado por la garantía.</span>",
+        "postcopy":"<span style=\"color:royalblue\">El producto será entregado en la misma sucursal del correo OCA que se le indicó en primera instancia.</span>",
+        "id":"reparaciones"},
+    {
+        "titulo":"Reparado Barracas", 
+        "cuerpo":"<span style=\"color:royalblue\">Le informo que su equipo se encuentra reparado. Puede acercarse a retirarlo por el taller de Benito Quinquela Martin 1924, C.A.B.A., <b> a partir del lunes, de lunes a jueves de 9:00 a 16:00 hs </b>, por favor acercarse con la solicitud correspondiente.</span>",
+        "postcopy":"",
+        "id":"reparaciones"}
+]
