@@ -16,7 +16,7 @@
         "id":"solrstgen"},
     {
         "titulo":"Solicitud CPFR", 
-        "cuerpo":"<span style=\"color:royalblue\">Le informo que para clasificar el equipo como falla reiterada preciso un video o foto que corrobore la falla del mismo.\n\nUna vez realizado podremos buscar otras vías de solución para su producto.</span>",
+        "cuerpo":"<span style=\"color:orange\">Le informo que para clasificar el equipo como falla reiterada preciso un video o foto que corrobore la falla del mismo.\n\nUna vez realizado podremos buscar otras vías de solución para su producto.</span>",
         "postcopy":"",
         "id":"cpfr"},
     {
