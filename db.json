@@ -16,7 +16,7 @@
         "id":"solrstgen"},
     {
         "titulo":"Solicitud CPFR", 
-        "cuerpo":"<span style=\"color:orange\">Le informo que para clasificar el equipo como falla reiterada preciso un video o foto que corrobore la falla del mismo.\n\nUna vez realizado podremos buscar otras vías de solución para su producto.</span>",
+        "cuerpo":"<span style=\"color:orange\">Le informo que para clasificar el equipo como falla reiterada preciso un video o foto que corrobore la falla del mismo. Una vez realizado podremos buscar otras vías de solución para su producto.</span>",
         "postcopy":"",
         "id":"cpfr"},
     {
@@ -44,4 +44,10 @@
         "cuerpo":"<span style=\"color:royalblue\">Le informo que su equipo se encuentra reparado. Puede acercarse a retirarlo por el taller de Benito Quinquela Martin 1924, C.A.B.A., <b> a partir del lunes, de lunes a jueves de 9:00 a 16:00 hs </b>, por favor acercarse con la solicitud correspondiente.</span>",
         "postcopy":"",
         "id":"reparaciones"}
+     {
+        "titulo":"Reparado Barracas", 
+        "cuerpo":"<span style=\"color:royalblue\">Le informo que el equipo no acusa la falla indicada en primera instancia. Antes de proceder con un envío le pido me desarrolle con mayor detalle la falla.<br><br><b>¿En qué momentos se presentaba? ¿La falla solo se evidencia con un accesorio en específico del equipo?</b><br><br>Con esta información buscaremos reproducir en el taller el desperfecto y solucionarlo.</span>",
+        "postcopy":"",
+        "id":"reparaciones"}
 ]
+ 
